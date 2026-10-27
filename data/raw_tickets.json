@@ -1,0 +1,14 @@
+[
+  {
+    "ticket_id": "TCK-101",
+    "customer": "Dimas",
+    "issue": "Aplikasi POS gagal sinkron ke server saat offline",
+    "solution": "Buka pengaturan aplikasi, pilih Sinkronisasi Manual untuk mengirim antrean transaksi dari IndexedDB."
+  },
+  {
+    "ticket_id": "TCK-102",
+    "customer": "Jamal",
+    "issue": "Kertas printer kasir macet dan transaksi tertunda",
+    "solution": "Buka penutup printer thermal, rapikan gulungan kertas, dan periksa koneksi Bluetooth printer."
+  }
+]
